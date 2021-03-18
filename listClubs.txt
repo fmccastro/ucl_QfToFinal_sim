@@ -1,0 +1,8 @@
+FC Porto    POR
+Liverpool FC    ENG
+Manchester City     ENG
+Chelsea FC      ENG
+Bayern Munchen      GER
+Borussia Dortmund   GER
+Paris Saint-Germain     FRA
+Real Madrid CF      ESP
